@@ -1,0 +1,16 @@
+body {
+    background-image: linear-gradient(to right,yellow,green);
+}
+
+
+
+
+.main {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+
+}
